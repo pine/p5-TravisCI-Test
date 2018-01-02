@@ -1,0 +1,6 @@
+name = "TravisCI-Test"
+# badges = ["travis"]
+authority="cpan:PINE"
+
+module_maker="ModuleBuildTiny"
+
